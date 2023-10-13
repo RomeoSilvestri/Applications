@@ -1,7 +1,19 @@
-# Digitiamo_Application
+# Applications
 
-Questo notebook si concentra sull'utilizzo del dataset "Japanese Newspapers 2005-2021" reperibile su Kaggle. L'obiettivo principale è eseguire un'analisi esaustiva dei dati presenti nei giornali giapponesi. Per agevolare la collaborazione e il controllo delle versioni, sarà creata una codebase Git condivisa.
+In this repository are collected my applications for companies to which I sent an application and who were asked for a presentation or a specific set of tasks.
 
-Inizialmente, verranno sviluppati notebook interattivi con grafici selezionati per visualizzare le principali caratteristiche del dataset. Questi grafici aiuteranno a comprendere meglio la distribuzione delle fonti giornalistiche, il periodo in cui gli articoli sono stati pubblicati, la frequenza delle parole chiave e la polarità dei sentimenti nei testi.
+## Digitiamo
 
-Successivamente, ci concentreremo sull'addestramento di un classificatore, il cui compito sarà predire in quale giornale è stato scritto un articolo, basandosi sul testo dell'articolo stesso. Verranno calcolate metriche di valutazione per misurare le prestazioni del classificatore. Un aspetto cruciale del progetto riguarderà l'esplorazione di diversi modelli di machine learning e tecniche di preprocessing dei dati. Questo approccio ci consentirà di confrontare le prestazioni dei vari modelli e identificare l'approccio migliore per il nostro specifico problema.
+*NOTEBOOK*
+
+This notebook focuses on using the "Japanese Newspapers 2005-2021" dataset found on Kaggle. The main objective is to perform a comprehensive analysis of the data found in Japanese newspapers. To facilitate collaboration and version control, a shared Git codebase will be created.
+
+Initially, interactive notebooks with selected graphs will be developed to visualize the main features of the dataset. These graphs will help to better understand the distribution of journalistic sources, the period in which the articles were published, the frequency of keywords, and the polarity of sentiments in the texts.
+
+Next, we will focus on training a classifier, whose task will be to predict in which newspaper an article was written, based on the text of the article itself. Evaluation metrics will be calculated to measure the performance of the classifier. A crucial aspect of the project will involve the exploration of different machine learning models and data preprocessing techniques. This approach will allow us to compare the performance of various models and identify the best approach for our specific problem.
+
+## FBK (Fondazione Bruno Kessler)
+
+*PRESENTATION*
+
+This presentation is based on a brief introduction of myself and my background of experiences.
